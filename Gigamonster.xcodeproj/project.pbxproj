@@ -286,6 +286,7 @@
 				0709E9291CFA22AE0062DD9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
